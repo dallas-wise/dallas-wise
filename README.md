@@ -2,8 +2,9 @@
 
 Founder | AI Engineer | Developer
 
-[![Flagstik](https://img.shields.io/badge/Flagstik-1A3A2A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flagstik.com)
-[![Gargle Dental Marketing](https://img.shields.io/badge/Gargle_Dental_Marketing-4081C1?style=for-the-badge&logo=sparkles&logoColor=white)](https://www.gargle.com)
+[![Flagstik](https://img.shields.io/badge/Flagstik-1A3A2A?style=for-the-badge)](https://flagstik.com)
+[![Gargle Dental Marketing](https://img.shields.io/badge/Gargle_Dental_Marketing-4081C1?style=for-the-badge)](https://www.gargle.com)
+
 
 
 ---
