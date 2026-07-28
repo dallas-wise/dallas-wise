@@ -3,7 +3,6 @@
 Founder | AI Engineer | Developer
 
 [![Flagstik](https://img.shields.io/badge/Flagstik-1A3A2A?style=for-the-badge)](https://flagstik.com)
-[![Gargle Dental Marketing](https://img.shields.io/badge/Gargle_Dental_Marketing-4081C1?style=for-the-badge)](https://www.gargle.com)
 
 
 
@@ -15,7 +14,6 @@ I’m a developer focused on building practical, user-centered applications that
 
 I’m the founder of Flagstik, a company dedicated to helping golf courses modernize their digital presence through custom websites, booking systems, and e-commerce solutions.
 
-I currently work as an AI Engineer at Gargle Dental Marketing, where I focus on building intelligent systems and tools that improve efficiency, automate workflows, and unlock better use of data.
 
 ---
 
